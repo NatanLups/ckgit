@@ -8,6 +8,7 @@ namespace TesteK
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo!");
+            Console.WriteLine("Bom Dia!");
 
             Console.ReadLine();
         }

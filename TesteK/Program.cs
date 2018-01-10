@@ -7,9 +7,9 @@ namespace TesteK
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ola Mundo!");
-            Console.WriteLine("Bom Dia!");
+            Console.WriteLine("Ola Mundo!");           
             Console.WriteLine("Como voce esta hoje:");
+            Console.WriteLine("Tenha um Bom dia");
             Console.ReadLine();
         }
     }

@@ -10,6 +10,7 @@ namespace TesteK
             Console.WriteLine("Ola Mundo!");           
             Console.WriteLine("Como voce esta hoje:");
             Console.WriteLine("Tenha um Bom dia");
+            Console.WriteLine("Tchau");
             Console.ReadLine();
         }
     }
